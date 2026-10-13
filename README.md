@@ -4,9 +4,9 @@
 **Pré-requisito:** notebook *Tutorial: Word Embeddings com Gensim*  
 **Entrega:** este notebook executado (Arquivo > Baixar > `.ipynb`), com todas as células rodadas e as respostas escritas preenchidas.
 
-| Nome | Matrícula |
-|---|---|
-|  |  |
+|           Nome               | Matrícula    |
+|Daniel Anderson de Souza Silva|0126015852-52M|
+|                              |              |
 
 ## Objetivos
 
