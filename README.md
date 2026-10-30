@@ -455,3 +455,9 @@ _(escreva aqui)_
 - Hill, Reichart & Korhonen (2015). *SimLex-999: Evaluating Semantic Models with (Genuine) Similarity Estimation.*
 - Bolukbasi et al. (2016). *Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.*
 - Gonen & Goldberg (2019). *Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them.*
+
+---
+
+## License
+
+The source code of this repository is released under the **MIT License**. See the [`LICENSE`](LICENSE) file for the full text.
